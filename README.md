@@ -1,7 +1,7 @@
 # Semantic Intelligence System — Paper Structure
 ## CEREBRO + UADP
 
-## Paper 1: The Cortex (The Brain)
+## Paper 1: The Cortex (The Brain)[📄 Read White Paper](Paper1/White%20Paper%20-%201%20-%20Semantic%20Intelligence%20System.md)
 **Focus:** Meaning, Semantics, and Reasoning
 
 **What it covers:**
